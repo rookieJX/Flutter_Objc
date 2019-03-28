@@ -1,0 +1,1 @@
+../../../../flutter_moudle/.ios/Flutter/FlutterPluginRegistrant/Classes/GeneratedPluginRegistrant.h
